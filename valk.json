@@ -1,0 +1,6 @@
+{
+    "name": "example",
+    "namespaces": {
+        "core": "src/core"
+    }
+}
