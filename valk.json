@@ -1,6 +1,6 @@
 {
     "name": "example",
     "namespaces": {
-        "core": "src/core"
+        "funcs": "src/funcs"
     }
 }
