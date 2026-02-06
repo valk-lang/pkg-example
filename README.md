@@ -4,7 +4,7 @@
 ## Install
 
 ```bash
-vpkg install github.com/valk-lang/pkg-example
+vman install github.com/valk-lang/pkg-example
 ```
 
 ## Usage
